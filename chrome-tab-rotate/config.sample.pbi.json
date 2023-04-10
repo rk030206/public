@@ -3,7 +3,7 @@
     "fullscreen": true,
     "autoStart": false,
     "lazyLoadTabs": false,
-    "closeExistingTabs": true,
+    "closeExistingTabs": false,
     "websites": [
       {
         "url": "https://app.powerbi.com/groups/me/apps/423b48b7-a271-49b5-b453-87e12fc1b963/reports/584f7320-6797-4037-9b07-1fd479fc9795/ReportSection?chromeless=true",
